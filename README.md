@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Thinuga Sesanda</h1>
-<h3 align="center">A passionate self taught frontend/backend developer.</h3>
+<h1 align="left">Hi I'm Thinuga Sesanda</h1>
+<h3 align="left">A passionate self taught frontend/backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinugasesanda&label=Profile%20views&color=0e75b6&style=flat" alt="thinugasesanda" /> </p>
 
